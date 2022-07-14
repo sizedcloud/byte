@@ -1,1 +1,4 @@
-# notes 
+---
+title: Jekyll
+---
+# Notes for githubpages 
